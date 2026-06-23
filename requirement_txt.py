@@ -9,10 +9,10 @@ Original file is located at
 
 # Commented out IPython magic to ensure Python compatibility.
 # %%writefile requirements.txt
-# streamlit
-# pandas
-# numpy
-# scikit-learn
-# xgboost
-# joblib
-# plotly
+#streamlit==1.46.0
+#pandas==2.3.0
+#numpy==2.3.1
+#scikit-learn==1.7.0
+#xgboost==3.0.2
+#joblib==1.5.1
+#plotly==6.2.0
